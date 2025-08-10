@@ -28,3 +28,5 @@ Una colección de algunos de mis proyectos donde podrás:
 - 🧠 Leer sobre las **decisiones técnicas** que tomé  
 - 🧑‍💻 Explorar el **código fuente**  
 - 📈 Conocer los **retos** que enfrenté y cómo los superé
+
+https://juanesteportafolio.netlify.app/
