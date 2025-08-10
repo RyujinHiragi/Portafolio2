@@ -1,12 +1,32 @@
-# Descripción del Portafolio
+# 🚀 Bienvenido(a) a mi Portafolio Digital
 
-¡Hola y bienvenido(a) a mi portafolio digital!  
-Soy un desarrollador **Full Stack** apasionado por construir aplicaciones web robustas, escalables y fáciles de usar. En este espacio, te invito a explorar una colección de mis proyectos, que demuestran mi habilidad para trabajar tanto en el frontend como en el backend.
+<img src="https://ryujinhiragi.github.io/Portafolio2/assets/images/image-sobreMi.png" alt="Imagen del portafolio" align="right" width="300" style="margin-left: 20px; border-radius: 8px;" />
 
-Mi objetivo es crear soluciones completas, desde la interfaz de usuario que ves y con la que interactúas, hasta la lógica del servidor y la gestión de bases de datos que hacen que todo funcione.  
-Me especializo en tecnologías modernas que me permiten desarrollar experiencias de usuario fluidas y eficientes, manteniendo al mismo tiempo un código limpio, modular y bien documentado.
+¡Hola! Soy un desarrollador **Full Stack** apasionado por construir aplicaciones web **robustas**, **escalables** y **fáciles de usar**.
 
-Cada proyecto aquí representa un desafío único que me ha ayudado a crecer como desarrollador. Puedes ver la aplicación en vivo, explorar el código fuente y leer sobre las decisiones técnicas que tomé para cada uno.
+---
 
-¡Gracias por visitar!  
-Siéntete libre de contactarme si tienes alguna pregunta o si te gustaría colaborar en un proyecto.
+## 💡 Sobre Mí
+
+Me especializo en desarrollar **soluciones completas**, abarcando:
+
+- 🎨 **Frontend**: Interfaces de usuario interactivas, modernas y accesibles.  
+- ⚙️ **Backend**: Lógica del servidor optimizada, segura y eficiente.  
+- 🗄️ **Bases de datos**: Estructuras limpias, relaciones claras y consultas efectivas.
+
+Trabajo con tecnologías modernas que permiten experiencias de usuario **fluidas y dinámicas**, manteniendo siempre un código:
+
+- 🔹 Limpio  
+- 🔹 Modular  
+- 🔹 Bien documentado
+
+---
+
+## 🛠️ ¿Qué encontrarás aquí?
+
+Una colección de algunos de mis proyectos donde podrás:
+
+- 🔍 Ver la aplicación en **vivo**  
+- 🧠 Leer sobre las **decisiones técnicas** que tomé  
+- 🧑‍💻 Explorar el **código fuente**  
+- 📈 Conocer los **retos** que enfrenté y cómo los superé
